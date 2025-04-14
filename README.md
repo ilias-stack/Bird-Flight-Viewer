@@ -2,7 +2,7 @@
 
 A simple Java Swing application that simulates flocking behavior of birds, similar to the classic "boids" algorithm.
 
-![Bird Simulation was inspired by this video](https://www.youtube.com/shorts/X8LglXSG53A)
+[Bird Simulation was inspired by this video](https://www.youtube.com/shorts/X8LglXSG53A)
 
 ## Features
 
